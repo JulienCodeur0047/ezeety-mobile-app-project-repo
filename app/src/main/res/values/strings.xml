@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ezeety</string>
+    <string name="ezeetyApp">ezeety</string>
+    <string name="connexionText">Connexion</string>
+    <string name="se_conncter_sur_facebookText">   Se connecter avec Facebook</string>
+    <string name="se_conncter_sur_google">Se connecter avec Google</string>
+    <string name="mot_de_passe_oublier">Mot de passe oublier?</string>
+    <string name="vous_n_avez_pas_de_compte">Vous n\'avez pas de compte?</string>
+    <string name="inscrivez_vous">Inscrivez-vous.</string>
+    <string name="ou">OU</string>
+    <string name="que_recherchez_vous_string">Que recherchez-vous?</string>
+</resources>
